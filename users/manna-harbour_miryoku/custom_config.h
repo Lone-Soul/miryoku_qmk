@@ -9,4 +9,4 @@
 KC_ESC,           KC_Q,             KC_W,             KC_E,             KC_R,             KC_Y,             KC_U,             KC_I,             KC_O,             KC_P,             \
 KC_LSFT,          KC_A,             KC_S,             KC_D,             KC_F,             KC_H,             KC_J,             KC_K,             KC_L,             KC_QUOTE,         \
 KC_LCTL,          KC_Z,             KC_X,             KC_C,             KC_V,             KC_N,             KC_M,             KC_COMMA,         KC_DOT,           KC_SLASH,         \
-U_NP,             U_NP,             KC_LALT,          KC_SPC,           KC_TAB,           KC_RET,           KC_BSPC,          TO(U_BASE),       U_NP,             U_NP
+U_NP,             U_NP,             KC_LALT,          KC_SPC,           KC_TAB,           KC_RETN,          KC_BSPC,          TO(U_BASE),       U_NP,             U_NP
